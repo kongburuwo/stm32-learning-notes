@@ -92,7 +92,7 @@ int main(void)
 ```
 
 
-## **流水线灯**
+## **流水灯**
 
 - 大致与点亮LED的代码相符
     *gpio_initstruct.Pin = GPIO_PIN_8 | GPIO_PIN_9;同时配置两个引脚，避免重复写一个函数到达直接初始化两个LED小灯的效果*
